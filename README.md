@@ -3,6 +3,9 @@ Unicorn Dragon Studios
 
 Java game repository for M.Hassaan Mirza and Kimberley Evans-Parker
 ---
+
+### Run Instructions
+
 **To run the game:**
 
 cd into the src folder: `$ cd src`
@@ -11,6 +14,7 @@ compile all java files: `$ javac *.java`
 
 run from Game.java: `$ java Game`
 
+### Variables
 
 `Game` Starting point of the code. Initialises everything.
 
@@ -71,19 +75,19 @@ maps contains the different map layouts as txt files
 sprites contains the different spritesheets as png files
 
 
-**Map design**
+### Map design
 
 1 -> 2 -> 3 -> 4
 
-    |
-
-    V
-
-    5 -> 6 -> 7
-
-    |
-
-    V
-
-    8 -> 9 -> 10 -> 11
+     |
+     
+     V
+     
+     5 -> 6 -> 7
+     
+     |
+     
+     V
+     
+     8 -> 9 -> 10 -> 11
 
